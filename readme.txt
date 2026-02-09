@@ -1,8 +1,8 @@
-Thank you for using our template!
+The website is based on a ready-made template colorlib.com .
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+More interesting templates can be found on the website https://colorlib.com/wp/templates/
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+The copyright information for the template cannot be changed or deleted unless you have purchased a license.
+More detailed information about the license is available here: https://colorlib.com/wp/licence/
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Deleting copyright information without a license will result in the suspension of your hosting and/or domain names.
